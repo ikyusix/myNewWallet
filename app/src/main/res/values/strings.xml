@@ -1,0 +1,11 @@
+<resources>
+    <string name="app_name">MyNewWallet</string>
+    <string name="currency">RP. </string>
+    <string name="cash">CASH:</string>
+    <string name="balance">100000</string>
+    <string name="transfer">TRANSFER</string>
+    <string name="top_up">TOP UP</string>
+    <string name="home">HOME</string>
+    <string name="pay">PAY</string>
+    <string name="name">BIMA ADAM NUGRAHA</string>
+</resources>
